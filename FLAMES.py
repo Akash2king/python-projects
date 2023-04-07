@@ -7,6 +7,8 @@ while (len(a)>i):
       del a[i]
       del b[j]
       i=j=0
-    j+=1
+    else:
+      j+=1
+  j=0
   i+=1
 print(a, b, sep="\n")
