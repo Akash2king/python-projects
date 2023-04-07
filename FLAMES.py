@@ -1,5 +1,5 @@
-a=list(input("Enter a name")) 
-b=list(input("Enterva name")) 
+a=list(input("Enter a name :")) 
+b=list(input("Enterva name :")) 
 i=j=0
 while (len(a)>i):
   while (len(b)>j):
@@ -12,3 +12,6 @@ while (len(a)>i):
   j=0
   i+=1
 print(a, b, sep="\n")
+c=a+b
+num=len(c)
+print ( num) 
