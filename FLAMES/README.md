@@ -18,7 +18,7 @@ You need to have Python installed on your machine. If you don't have it installe
 1. Clone this repository to your local machine using the following command:
 
    ```
-   git clone https://github.com/your-username/flames-calculator.git
+   git clone https://github.com/Akash2king/python-projects/blob/a6f3a147290227394db5d3c49551db9fd3a65d5a/FLAMES/flames-calculator.py
    ```
 
 2. Navigate to the cloned repository directory:
