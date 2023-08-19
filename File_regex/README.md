@@ -17,7 +17,7 @@ You need to have Python installed on your machine. If you don't have it installe
 1. Clone this repository to your local machine using the following command:
    
    ```
-   git clone https://github.com/your-username/text-data-extractor.git
+   git clone https://github.com/Akash2king/python-projects/blob/11b54c7a702900460b7beda4f448d0d14974edb2/File_regex/File_regex.py
    ```
 
 2. Navigate to the cloned repository directory:
