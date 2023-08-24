@@ -7,6 +7,10 @@ Hey there, fellow code enthusiast! Welcome to my Python projects playground! �
 
 In this repository, you'll find a delightful assortment of Python projects, each with its own quirks and surprises. From games that make you go "aha!" to nifty utilities that save the day, there's something here for every Pythonista. 🎈
 
+### Prerequisites
+
+You need to have Python installed on your machine. If you don't have it installed, you can download it from the official website: [Python Downloads](https://www.python.org/downloads/).
+
 ## Feast Your Eyes on These Treats 🍰
 
 Here are a couple of the juicy projects you can nibble on:
