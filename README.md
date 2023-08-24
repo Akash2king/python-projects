@@ -14,7 +14,7 @@ Here are a couple of the juicy projects you can nibble on:
 - [🔮 Guess the Number](https://github.com/Akash2king/python-projects/tree/7bf6dfb0d4a604a89429abbe9c8ff652437acf14/Guss_the_number): A number-guessing game that's got a sprinkle of randomness and a dash of excitement!
 - [💞 Flames]( https://github.com/Akash2king/python-projects/tree/7c9cab64265129bea33ed314e61b5b920bd7c2a3/FLAMES): This Python script calculates the FLAMES relationship compatibility between two people based on their names. FLAMES is an acronym that stands for "Friendship," "Love," "Affection," "Marriage," "Enemies," and "Sister."
 - [📋 Text Data Extractor](https://github.com/Akash2king/python-projects/tree/7bf6dfb0d4a604a89429abbe9c8ff652437acf14/File_regex): This Python script extracts specific data (emails, URLs, and phone numbers) from a given text file and writes them to separate output files.
-- [💾 Web_source_code_extractor](Web_source_code_extractor) :
+- [💾Web_source_code_extractor](Web_source_code_extractor) :
 Python script to fetch and save web page source code. Display and save options available. Contributions welcome. 
 
 Don't just read about them – fire up your terminal and give 'em a whirl! 🚀
