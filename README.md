@@ -20,7 +20,8 @@ Here are a couple of the juicy projects you can nibble on:
 - [📋 Text Data Extractor](https://github.com/Akash2king/python-projects/tree/7bf6dfb0d4a604a89429abbe9c8ff652437acf14/File_regex): This Python script extracts specific data (emails, URLs, and phone numbers) from a given text file and writes them to separate output files.
 - [💾Web_source_code_extractor](Web_source_code_extractor) :
 Python script to fetch and save web page source code. Display and save options available. Contributions welcome. 
-
+- [📁File Organizer Program](https://github.com/Akash2king/python-projects/tree/88a247836b373b0965774a1a16b4ece3378bc677/File%20organizor) :
+This Python program organizes files into different directories based on their types. It helps keep your files more organized by moving them to appropriate folders.
 Don't just read about them – fire up your terminal and give 'em a whirl! 🚀
 
 ## Ready to Join the Party? 🎈
