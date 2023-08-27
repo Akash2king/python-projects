@@ -3,7 +3,7 @@
 
 # YouTube Video Downloader
 
-![YouTube Downloader](youtube_downloader_image.jpg)
+<img src="images - 2023-08-27T105506.755.png" alt="youtube " style="border-radius:5px;"/>
 
 Welcome to the YouTube Video Downloader! This Python script allows you to easily download YouTube videos in various resolutions. Whether you're looking to watch your favorite videos offline or save them for later, this script has got you covered.
 
