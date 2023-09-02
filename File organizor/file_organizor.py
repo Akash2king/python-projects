@@ -1,5 +1,6 @@
 import shutil as shu
 import os
+#import platform
 
 print('''This program will collect all files (image files, MP3 files, MP4 files, PDF files, text files, Excel files, and zip files) and move them to separate directories.\n''')
 
@@ -7,7 +8,7 @@ dirp = input("Enter the path of the Directory: ")
 
 # Collect all the files from the directory
 files = os.listdir(dirp)
-dir = dirp + "/"
+dir = dirp + os.path.sep
 
 # Types of files that are possible in that directory
 types = {
@@ -44,5 +45,7 @@ for f in files:
         print(f)
         if not os.path.isdir(target_dir):
             os.makedirs(target_dir)
-        shu.move(dir + f, os.path.join(target_dir, f))
+        shu.move(os.path.join(dir, f), os.path.join(target_dir, f))
         print("\n\tFile moved successfully!!\n")
+
+print("\nOperation completed successfully!")
