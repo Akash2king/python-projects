@@ -1,6 +1,6 @@
 import shutil as shu
 import os
-#import platform
+import platform
 
 print('''This program will collect all files (image files, MP3 files, MP4 files, PDF files, text files, Excel files, and zip files) and move them to separate directories.\n''')
 
