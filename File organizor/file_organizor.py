@@ -27,7 +27,9 @@ types = {
     ".xlsx": "excel_files",
     ".zip": "zip_files",
     ".rar": "zip_files",
-    ".7z": "zip_files"
+    ".7z": "zip_files",
+    ".py":"python_file",
+    ".c":"c_files"
 }
 
 # Function to return key for any value
