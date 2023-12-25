@@ -41,6 +41,7 @@ This Python command-line tool is designed to organize files based on their types
 - **Zip Files:** .zip, .rar, .7z
 - **Python Files:** .py
 - **C Files:** .c
+- and much more....
 
 ## Example
 
