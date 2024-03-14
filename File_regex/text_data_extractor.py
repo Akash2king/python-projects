@@ -2,7 +2,7 @@ import re
 import time as t
 #file name to read {emails, urls, phone numbers}
 
-filename = "SOURCE FILE YOU WANT TO EXTRACT FROM.txt"
+filename = input("SOURCE FILE YOU WANT TO EXTRACT FROM.txt :") 
 
 
 with open(filename, "r") as f:
